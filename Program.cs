@@ -47,3 +47,14 @@ namespace BeginnerToolkit
         }
 
         static void RunTest()
+        {
+            ToolkitTests.RunTests();
+        }
+
+        static void RunProduction()
+        {
+            Console.WriteLine("[Production] Toolkit is running in production mode.");
+            // Add production‑ready logic here later
+        }
+    }
+}
