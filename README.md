@@ -4,7 +4,7 @@ A simple C# console toolkit for beginners to practice core programming concepts.
 
 ---
 
-✨ Features
+  Features
 - Calculate averages of integer arrays
 - Reverse strings
 - Square numbers
