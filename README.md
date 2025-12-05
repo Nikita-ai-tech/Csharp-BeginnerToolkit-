@@ -4,7 +4,7 @@ A simple C# console toolkit for beginners to practice core programming concepts.
 
 ---
 
-## ✨ Features
+✨ Features
 - Calculate averages of integer arrays
 - Reverse strings
 - Square numbers
@@ -14,32 +14,34 @@ A simple C# console toolkit for beginners to practice core programming concepts.
 
 ---
 
-##  Requirements
+📦 Requirements
 - .NET SDK (6.0 LTS or 8.0)
 - Editor: Acode (Android), VS Code, or Rider
 - Git (optional, for version control)
 
 ---
 
-## ⚙️ Setup Instructions
-```bash
-# Clone this repository
+⚙️ Setup Instructions
+`bash
+
+Clone this repository
 git clone https://github.com/YourUsername/BeginnerToolkit
 cd BeginnerToolkit
 
-# Run the app
+Run the app
 dotnet run
+`
 
 ---
 
-2. Curriculum Links
+📚 Curriculum Links
 - Microsoft Learn: C# Fundamentals
 - FreeCodeCamp C# Basics
 - Dotnet CLI Documentation
 
 ---
 
-6. Examples of Toolkit Usage
+🧑‍💻 Examples of Toolkit Usage
 
 🧮 Average Calculation
 `csharp
@@ -131,6 +133,5 @@ Helpful links:
 
 ---
 
-Author
+✍️ Author
 BeginnerToolkit created by Nikita, as part of her journey in building practical, educational C# projects.
-
