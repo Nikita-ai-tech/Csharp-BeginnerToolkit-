@@ -165,12 +165,13 @@ Is 11 even? False
 
 ---
 
-📚 References
-- Official .NET Documentation
-- C# Programming Guide
-- Dotnetfiddle Online Compiler
-- Rextester Online Compiler
-- Helpful Blog: C# Basics for Beginners
+## Useful C# Resources
+
+- [Official .NET Documentation](https://learn.microsoft.com/en-us/dotnet/)
+- [C# Programming Guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+- [Dotnetfiddle Online Compiler](https://dotnetfiddle.net/)
+- [Rextester Online Compiler](https://rextester.com/l/csharp_online_compiler)
+- [Helpful Blog: C# Basics for Beginners](https://www.freecodecamp.org/news/the-c-beginners-guide/)
 
 ---
 
